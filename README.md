@@ -12,9 +12,9 @@ Troca da imagem de 🌞 para 🌙 ao selecionar o modo escuro.
 🔗 [Clique aqui para acessar()]
 **🔗 Link para o projeto:** [<a href="https://guilherme-dev15.github.io/projeto-listagem-pokemon/">LISTAGEM POKÉMON</a>]
 🌞
-![preview](./.github/previewSun.png)
+![preview](.github/previewSun.png)
 🌙
-![preview](./.github/previewMoon.png)
+![preview](.github/previewMoon.png)
 
 ## 📧 Contato
 guilherme.macedo1598@gmail.com
